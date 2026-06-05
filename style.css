@@ -1,14 +1,26 @@
-body {
-  font-family: Arial, sans-serif;
-    margin: 20px;
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:20px;
 }
 
-h1 {
-    text-align: center;
+h1{
+    text-align:center;
 }
 
-div {
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin: 10px;
+div{
+    background:white;
+    padding:15px;
+    margin:15px;
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.2);
+}
+
+button{
+    background:#28a745;
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:5px;
 }
