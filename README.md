@@ -1,2 +1,14 @@
-# CodeAlpha_SimpleEcommerceStore
-CodeAlpha Full Stack Development Internship – Simple E-Commerce Store Project.
+# CodeAlpha Simple Ecommerce Store
+
+## Features
+- Product Listing
+- Shopping Cart
+- Responsive Design
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Pavithira Kamala Varshini R 
