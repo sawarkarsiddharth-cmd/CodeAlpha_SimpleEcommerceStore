@@ -11,4 +11,4 @@
 - JavaScript
 
 ## Author
-Pavithira Kamala Varshini R 
+Siddharth Sawarkar
